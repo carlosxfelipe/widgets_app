@@ -59,4 +59,9 @@ const appMenuItems = <MenuItem>[
       subTitle: "Listas infinitas e pull to refresh",
       link: "/infinite",
       icon: Icons.list_alt_rounded),
+  MenuItem(
+      title: "Seletor de temas",
+      subTitle: "Vários temas para o aplicativo",
+      link: "/theme-changer",
+      icon: Icons.color_lens_outlined),
 ];
